@@ -16,7 +16,7 @@ var cookieParser = require('cookie-parser');
 
 var client_id = '49f9de2ce072417988f4d4ddf5d5f8b9'; // Your client id
 var client_secret = 'b2bc19468e8d46a9aaf4874f22b422a3'; // Your secret
-var redirect_uri = 'http://localhost:5000/callback'; // Your redirect uri
+var redirect_uri = 'https://still-peak-65780.herokuapp.com/callback'; // Your redirect uri
 
 /**
  * Generates a random string containing numbers and letters
