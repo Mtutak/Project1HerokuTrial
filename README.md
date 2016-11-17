@@ -1,2 +1,2 @@
-# Project1HerokuTrial
-Heroku Upload Trial
+# Shareify
+Integrating with the Spotify API
